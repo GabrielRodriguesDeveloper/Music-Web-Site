@@ -1,0 +1,21 @@
+.toolbarContainer{
+    display: flex;
+    background-color: #27272a;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100px;
+    align-items: center;
+    height: 480px;
+}
+
+
+.toolbarIcons{
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+
+.toolbarIcon{
+    max-width: 100%;
+}
